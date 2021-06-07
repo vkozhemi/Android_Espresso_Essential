@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Android_Espresso_Essential</string>
+    <string name="hello">Hello!</string>
+    <string name="greet">Greet</string>
+    <string name="title">My Amazing Title</string>
+</resources>

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/vkozhemiakin/Desktop/Apps/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch05/05_02/Android_Espresso_Essential_ListView/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/vkozhemiakin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/555d3efef3976c20d116f505c2fda494/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/vkozhemiakin/Desktop/Apps/Ex_Files_Android_Espresso_EssT/Exercise Files/Ch05/05_02/End/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/vkozhemiakin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/555d3efef3976c20d116f505c2fda494/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}
