@@ -1,0 +1,4 @@
+#Tue Jun 08 00:51:44 EEST 2021
+base.0=/home/vkozhemiakin/AndroidStudioProjects/Android_Espresso_Essential/Android_Espresso_Essential_RecyclerView/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

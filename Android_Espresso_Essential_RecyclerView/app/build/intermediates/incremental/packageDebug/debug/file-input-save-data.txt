@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jun 08 00:51:44 EEST 2021
+0.baseType=DIRECTORY
+0.base=/home/vkozhemiakin/AndroidStudioProjects/Android_Espresso_Essential/Android_Espresso_Essential_RecyclerView/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
